@@ -1,5 +1,7 @@
 github_users:
-  - ascription_lines_max: 2
+  - imraantalib17
+
+repo_description_lines_max: 2
 
 github_repos:
   - imraantalib17/gemini-notes-app
