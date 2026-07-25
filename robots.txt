@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://imraan.yoyoscoolwebsite.net/main-site/sitemap.xml
+Sitemap: https://imraan.yoyoscoolwebsite.net/sitemap.xml
